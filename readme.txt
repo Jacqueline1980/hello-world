@@ -1,2 +1,3 @@
-Git-It Assignment
+
 Hello!
+This is our first assignment.
